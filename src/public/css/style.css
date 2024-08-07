@@ -1,0 +1,24 @@
+body {
+  background-color: #0a0a0a; /* Color de fondo general */
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  transition: transform 0.3s;
+  background: linear-gradient(
+    135deg,
+    #9ba210,
+    #ec6ead
+  ); /* Gradient de colores */
+  color: #fff; /* Color del texto principal */
+}
+
+.card-header {
+  background-color: #c9b30d; /* Color de fondo del encabezado */
+  color: #b53232; /* Color del texto del encabezado */
+}
+
+.card:hover {
+  transform: scale(1.05);
+}

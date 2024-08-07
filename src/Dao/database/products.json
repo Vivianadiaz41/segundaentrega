@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Crema con pepita  de  uva",
+    "description": "crema  para  rostro",
+    "price": "2323",
+    "category": "crema humectante",
+    "status": true,
+    "thumbnail": "https://www.blesant.com/cdn/shop/products/image_15adad2e-fb59-4df4-ab2b-74f4c6e3c6cc_300x300.jpg?v=1657947700",
+    "code": "5050452",
+    "stock": "222"
+  },
+
+  {
+    "id": 2,
+    "title": "Crema de avena",
+    "description": "crema corporal",
+    "price": "500",
+    "category": "crema humectante",
+    "status": true,
+    "thumbnail": "https://www.farmacialeloir.com.ar/img/articulos/2021/11/cerave_crema_hidratante_piel_seca_a_muy_seca_imagen1.jpg",
+    "code": "700000",
+    "stock": "100"
+  },
+
+  {
+    "id": 3,
+    "title": "Protector  solar Eucerin",
+    "description": "crema corporal",
+    "price": "2000",
+    "category": "cuidado del sol",
+    "status": true,
+    "thumbnail": "https://images-1.eucerin.com/~/media/eucerin%20relaunch%20media/eucerin/local/latam/sales%20visuals/proteccion%20solar/2023/sun%20face%20hydro-fluid%20fps%2050/8.png?rx=0&ry=0&rw=2000&rh=2000&hash=426DF491DE725D10257C3318F06D7475",
+    "code": "8000254",
+    "stock": "100"
+  }
+]
